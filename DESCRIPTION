@@ -1,6 +1,6 @@
 Package: bfpwr
-Version: 0.1.5
-Date: 2025-05-15
+Version: 0.1.6
+Date: 2025-09-02
 Authors@R: 
     c(person(given = "Samuel",
            family = "Pawel",
@@ -18,9 +18,9 @@ Imports: lamW
 Suggests: roxygen2, tinytest, knitr
 VignetteBuilder: knitr
 NeedsCompilation: no
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 URL: https://github.com/SamCH93/bfpwr
 BugReports: https://github.com/SamCH93/bfpwr/issues
-Packaged: 2025-05-15 07:37:20 UTC; sam
+Packaged: 2025-09-02 15:16:51 UTC; sam
 Repository: CRAN
-Date/Publication: 2025-05-15 08:20:06 UTC
+Date/Publication: 2025-09-02 16:10:02 UTC

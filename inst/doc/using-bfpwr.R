@@ -7,7 +7,7 @@ opts_chunk$set(fig.height = 4.5,
                warning = FALSE)
 
 ## ----"installation", eval = FALSE---------------------------------------------
-#  install.packages("bfpwr")
+# install.packages("bfpwr")
 
 ## ----"load"-------------------------------------------------------------------
 library("bfpwr")

@@ -1,6 +1,6 @@
-85415061d9855b544531360df74f8885 *DESCRIPTION
+4ddd5e11de33b7de5cd363a5c7a09cc8 *DESCRIPTION
 27fe79e46cf1e3dbdc5d90d096851644 *NAMESPACE
-9057b2bf763f98550884229e198c1090 *NEWS.md
+7e668f60548393bc0f609c5fd623fb99 *NEWS.md
 9327ac5fd6c4dd828f2d335b24b60b62 *R/bf01.R
 dffa8017711d4e083cfa51d3ea920ffc *R/binbf01.R
 bd9e2ed494c94f0b9b068b8f680286d5 *R/helpers.R
@@ -16,14 +16,14 @@ f5c87b6376cf3606a0aacc61b8e47d40 *R/powerbf01.R
 af5777a7705502d722e3b5eb41289b40 *R/powerbinbf01.R
 d7dac9d4d283ac4e8be363134556837f *R/powernmbf01.R
 96501652a72156c75f2c901ffaf5d743 *R/powertbf01.R
-8dd8da0d288a0959167bcdd677fc7091 *R/ptbf01.R
+dd507c0e889ba973520767a2eeced204 *R/ptbf01.R
 7ca5faa7831c28a01c925000595bf05f *R/tbf01.R
 aa5e5a2cbfaea3d9b6cdbe378ac48cee *build/partial.rdb
 ee6149c10c30c9442c6e25f99cf29890 *build/vignette.rds
 9b5fbfea8a628ab0f95a4e18bdf2a882 *inst/CITATION
-cc115161474139ac8cdce8b5e9f11374 *inst/doc/using-bfpwr.R
+0524b48885d4f810f325972fe5e294b7 *inst/doc/using-bfpwr.R
 a7087c9b324e573807f9189008e94308 *inst/doc/using-bfpwr.Rnw
-7e72bae047c52c313e7dacd49ba5c8b7 *inst/doc/using-bfpwr.pdf
+d61980fe0ea999fbf309cfff98393ec3 *inst/doc/using-bfpwr.pdf
 c7068a9640f9e4bc9252d6f25e4303cc *inst/tinytest/test-bf01.R
 cea02dcf7a4cd37982cf91cd135c8aa5 *inst/tinytest/test-nbf01.R
 b89d220a51dcaa3abc8fcdbf5fb171e6 *inst/tinytest/test-nmbf01.R
